@@ -1,0 +1,16 @@
+{
+  "home": "首页",
+  "dishes": "菜单",
+  "map": "地图",
+  "favorites": "收藏",
+  "profile": "我的帐户",
+  "search": "搜索",
+  "signin": "登录",
+  "signup": "注册",
+  "email": "邮箱",
+  "password": "密码",
+  "confirm_password": "确认密码",
+  "forgot_password": "忘记密码？",
+  "login": "登录",
+  "register": "注册"
+}

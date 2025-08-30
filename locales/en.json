@@ -1,0 +1,14 @@
+{
+  "home": "Home",
+  "dishes": "Dishes",
+   "search": "Search",
+  "favorites": "Favorites",
+  "profile": "Profile",
+  "email": "Email",
+  "password": "Password",
+  "confirm_password": "Confirm password",
+  "forgot_password": "Forgot password",
+  "login": "Login",
+  "register": "Register",
+  "recommended": "Recommended"
+}
